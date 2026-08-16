@@ -9,9 +9,7 @@
   <a href="https://xhslink.com/m/7mMhFIxAvCX">
     <img src="https://img.shields.io/badge/小红书-codedoctor-ff2442?style=flat-square" alt="小红书：codedoctor" />
   </a>
-  <a href="https://weixin.qq.com/r/mp/OCpbQ4TEq9nUrcAg938q">
-    <img src="https://img.shields.io/badge/微信公众号-扫码关注-07c160?style=flat-square&amp;logo=wechat&amp;logoColor=white" alt="微信公众号：扫码关注" />
-  </a>
+  <img src="https://img.shields.io/badge/微信公众号-下方扫码-07c160?style=flat-square&amp;logo=wechat&amp;logoColor=white" alt="微信公众号：下方扫码" />
   <br />
   <sub>10 年互联网开发 · 产品设计 · 全栈开发 · AI 内容创作</sub>
 </div>
@@ -34,22 +32,16 @@
 ### 找到我
 
 - 小红书：[codedoctor](https://xhslink.com/m/7mMhFIxAvCX)，分享 AI 工具的实际体验和使用方法
-- 微信公众号：[扫码关注](https://weixin.qq.com/r/mp/OCpbQ4TEq9nUrcAg938q)，写产品、技术和 AI 相关的长内容
+- 微信公众号：扫描下方二维码，阅读产品、技术和 AI 相关的长内容
 - GitHub：[@0lidaxiang](https://github.com/0lidaxiang)，存放项目与代码
 
-<details>
-  <summary><strong>展开二维码</strong></summary>
+#### 微信公众号二维码
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/0lidaxiang/0lidaxiang/main/assets/wechat-qrcode.jpg" width="240" alt="0lidaxiang 的微信公众号二维码" />
   <br />
-  <div align="center">
-    <a href="https://xhslink.com/m/7mMhFIxAvCX">
-      <img src="./assets/xiaohongshu-card.jpg" width="340" alt="小红书 codedoctor 主页与二维码" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://weixin.qq.com/r/mp/OCpbQ4TEq9nUrcAg938q">
-      <img src="./assets/wechat-qrcode.jpg" width="240" alt="微信公众号二维码" />
-    </a>
-  </div>
-</details>
+  <sub>打开微信扫一扫，关注我的公众号</sub>
+</div>
 
 ---
 
