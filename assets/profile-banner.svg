@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">0lidaxiang — AI, Product and Code</title>
+  <desc id="desc">A warm sunset-inspired banner for the 0lidaxiang GitHub profile.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff2df"/>
+      <stop offset="0.48" stop-color="#ffc59f"/>
+      <stop offset="1" stop-color="#f59aad"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff8cf"/>
+      <stop offset="1" stop-color="#ffd36f"/>
+    </linearGradient>
+    <linearGradient id="hill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e37f8d" stop-opacity="0.46"/>
+      <stop offset="1" stop-color="#d96e95" stop-opacity="0.24"/>
+    </linearGradient>
+    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#8f435c" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect x="12" y="12" width="1176" height="336" rx="42" fill="url(#background)"/>
+  <circle cx="1012" cy="105" r="70" fill="url(#sun)" opacity="0.96"/>
+  <path d="M12 252 C180 192 304 226 442 276 C584 328 724 194 874 218 C1006 238 1092 207 1188 180 L1188 306 Q1188 348 1146 348 L54 348 Q12 348 12 306 Z" fill="url(#hill)"/>
+
+  <g opacity="0.28" fill="none" stroke="#ffffff" stroke-width="3">
+    <path d="M888 52 C940 28 1000 34 1043 64"/>
+    <path d="M892 72 C936 54 981 56 1016 77"/>
+    <path d="M90 74 C160 38 231 48 280 86"/>
+  </g>
+
+  <g transform="translate(92 72)" filter="url(#soft-shadow)">
+    <rect width="560" height="216" rx="30" fill="#ffffff" fill-opacity="0.84"/>
+    <text x="42" y="77" fill="#252226" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="54" font-weight="750">0lidaxiang</text>
+    <text x="44" y="124" fill="#6e5b62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="23" font-weight="500" letter-spacing="1">AI · PRODUCT · CODE</text>
+    <rect x="42" y="154" width="386" height="38" rx="19" fill="#252226"/>
+    <text x="61" y="180" fill="#fff8ef" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif" font-size="18" font-weight="600">把想法做成产品，把经验写成内容</text>
+  </g>
+
+  <g transform="translate(828 164)" fill="none" stroke="#3b3036" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="116" cy="72" r="82" fill="#ffffff" fill-opacity="0.5" stroke="#ffffff" stroke-width="4"/>
+    <path d="M71 45 L42 72 L71 99" stroke-width="9"/>
+    <path d="M161 45 L190 72 L161 99" stroke-width="9"/>
+    <path d="M132 34 L101 110" stroke-width="9"/>
+    <circle cx="218" cy="3" r="7" fill="#3b3036" stroke="none"/>
+    <circle cx="243" cy="25" r="4" fill="#3b3036" stroke="none" opacity="0.6"/>
+    <circle cx="224" cy="45" r="3" fill="#3b3036" stroke="none" opacity="0.4"/>
+  </g>
+</svg>
