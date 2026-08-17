@@ -1,13 +1,13 @@
 <table width="100%">
   <tr>
-    <td width="55%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <strong>小红书 · codedoctor</strong>
       <br /><br />
       <a href="https://xhslink.com/m/7mMhFIxAvCX">
-        <img src="https://raw.githubusercontent.com/0lidaxiang/0lidaxiang/main/assets/xiaohongshu-card.jpg" width="300" alt="小红书 codedoctor 名片二维码" />
+        <img src="https://raw.githubusercontent.com/0lidaxiang/0lidaxiang/main/assets/xiaohongshu-qrcode.png" width="240" alt="小红书 codedoctor 二维码" />
       </a>
     </td>
-    <td width="45%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <strong>微信公众号</strong>
       <br /><br />
       <img src="https://raw.githubusercontent.com/0lidaxiang/0lidaxiang/main/assets/wechat-qrcode.jpg" width="240" alt="0lidaxiang 的微信公众号二维码" />
